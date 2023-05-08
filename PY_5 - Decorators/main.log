@@ -1,0 +1,8 @@
+2023-05-08 06:25:51.504514 | hello_world | args=() | kwargs={} | Hello World
+2023-05-08 06:25:51.508511 | summator | args=(2, 2) | kwargs={} | 4
+2023-05-08 06:25:51.511658 | div | args=(6, 2) | kwargs={} | 3.0
+2023-05-08 06:25:51.514657 | div | args=(6, 0) | kwargs={} | Error: division by zero
+2023-05-08 06:25:51.517654 | summator | args=() | kwargs={'a': 0, 'b': 0} | 0
+2023-05-08 06:25:51.521788 | summator | args=(4.3,) | kwargs={'b': 2.2} | 6.5
+2023-05-08 06:40:13.598955 | smartest_superhero | args=(['Hulk', 'Captain America', 'Thanos', 'Tony Stark', 'Vision'],) | kwargs={} | None
+2023-05-08 06:40:38.934959 | smartest_superhero | args=(['Hulk', 'Captain America', 'Thanos', 'Iron man', 'Vision'],) | kwargs={} | None
